@@ -8,6 +8,4 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>taotao-manager-pojo</artifactId>
-  <name>taotao-manager-pojo</name>
-  <url>http://maven.apache.org</url>
 </project>
